@@ -1,0 +1,27 @@
+clean
+update
+compile
+clean
+update
+compile
+exit
+update
+compile
+clean
+update
+compile
+gen-idea
+gen
+clean
+update
+compile
+idea
+sbt-idea
+clean
+compile
+test
+compile
+test
+test quick
+test-quick
+exit
