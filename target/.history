@@ -25,3 +25,5 @@ test
 test quick
 test-quick
 exit
+git add .
+exit
