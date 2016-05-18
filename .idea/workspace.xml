@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80cac77c-8ede-4b12-bc4f-a8f2f13058cc" name="Default" comment="" />
+    <list default="true" id="80cac77c-8ede-4b12-bc4f-a8f2f13058cc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/com/test/StackSpec.scala" afterPath="$PROJECT_DIR$/src/test/scala/com/test/StackSpec.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/testproject$sources_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/testproject$sources_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/testproject$sources_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/testproject$sources_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/testproject_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/testproject_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/testproject_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/testproject_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject$sources_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-testproject_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+    </list>
     <ignored path="TestProject.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,8 +69,8 @@
       <file leaf-file-name="StackSpec.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/com/test/StackSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="357">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="e#18#49#0" expanded="true" />
               </folding>
@@ -42,6 +79,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -58,7 +98,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -86,8 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,6 +219,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -496,7 +536,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1463521982509" />
+    <option name="lastUpdateTimestamp" value="1463601478407" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -550,7 +590,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -564,7 +604,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -613,8 +653,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/test/StackSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/test/StackSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="e#18#49#0" expanded="true" />
           </folding>
