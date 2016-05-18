@@ -10,7 +10,7 @@ class StackSpec extends FlatSpec with Matchers {
     stack.push(1)
     stack.push(2)
     stack.pop() should be (12)
-    stack.pop() should be (13)
+    stack.pop() should be (134)
   }
 
   it should "throw NoSuchElementException if an empty stack is popped" in {
