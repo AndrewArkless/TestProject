@@ -4,10 +4,13 @@ import org.mockito.Mockito._
 import org.mockito.Matchers._
 
 class TestScalaClassMOCKS extends WordSpecLike with Matchers {
+
+  val mockCaching=mock(classOf[helperClass])
+  when(mockCaching.helperMessage()).thenReturn("Fake Message Mock!")
+  when(mockCaching.storeStuff(anyInt())).thenReturn("Fake Save Mock!")
+
   val x = new TestClass {
-    val caching = mock(classOf[fakeHelperClass])
-    when(caching.helperMessage()).thenReturn("Fake Message Mock!")
-    when(caching.storeStuff(anyInt())).thenReturn("Fake Save Mock!")
+    override def caching = mockCaching
   }
 
   "TestClass" should {
