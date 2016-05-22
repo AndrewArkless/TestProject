@@ -8,13 +8,14 @@ object TestClass extends TestClass with helperConnector
 trait TestClass {
   def caching:helperClass
   def message()="Hello"
+
   def simpleSum(x:Int,y:Int)=(x+y,message())
+
   def simpleMultiple(x:Int) ={
-    val h=caching.someMessage()
+    val h=caching.helperMessage()
     (h,x*2)
   }
   def save(value:Int)={
-    println("Real Save")
     caching.storeStuff(value)
   }
 }

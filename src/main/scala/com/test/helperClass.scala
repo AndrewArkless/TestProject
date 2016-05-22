@@ -7,9 +7,8 @@ package com.test
 object helperClass extends helperClass
 
 trait helperClass {
-  def someMessage()="Andrew"
-  def storeStuff(value:Int): Int ={
-    println("Storing Real Stuff")
-    value
+  def helperMessage()="Helper Message"
+  def storeStuff(value:Int)={
+    "Real Save"
   }
 }
